@@ -1,0 +1,3 @@
+En este caso, los actores identificados son los perpetradores detrás del ataque en 2014 y el equipo de Yahoo en ambos casos.  
+Los perpetradores caen bajo los **artículos 2, 7 y 8** de la ley chilena 21.459, además de infracción de la GDPR al ser Yahoo un portal web con gran porción de usuarios europeos.  
+Respecto al equipo de Yahoo. Su responsabilidad cae en que las brechas de datos no fueron notificadas a sus usuarios sino hasta el año 2016, lo que generó múltiples críticas y demandas de distintas entidades.

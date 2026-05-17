@@ -1,0 +1,2 @@
+En la brecha de Yahoo, se vieron interceptados múltiples datos de usuarios que son considerados sensibles por la ley 19.628: nombres, dirección de residencia, correo electrónico y número telefónico, por mencionar algunos. 
+En este caso, se vulneraron los derechos ARCO, ya que Yahoo no notificó a sus usuarios de forma inmediata que sus entidades externas lograron robar sus datos, en ambas ocasiones (2013 y 2014), sino hasta el año 2016.
