@@ -1,6 +1,5 @@
-| Marco | País | Descripción
-| --- | --- | ---
-| Ley 21.459 | Chile | Nueva ley en Chile para delitos informáticos. Múltiples artículos que cubren diferentes tipos de ciberataques y sus respectivas sanciones.
-| General Data Protection Regulation | Europa | Ley de privacidad aplicada a cualquier organización que trabaje con datos de personas europeas.
-| HIPAA | Estados Unidos | Protege datos de salud de las personas.
-| Convenio Budapest | Hungría | Tratado internacional del cibercrimen. 
+| Marco | País | Año | Descripción | Eje | Aplicabilidad al caso
+| --- | --- | --- | --- | --- | --- |
+| Ley 21.459 | Chile | 2022 | Derrogó a la ley 19.223. Múltiples artículos que cubren diferentes tipos de ciberataques y sus respectivas sanciones.| - | Accedió a un sistema informático sin autorización, vulneró seguridad y acceso a datos confidenciales, cae bajo **acceso ilícito** (Art. 2). **Fraude informático** (Art 7.). Receptación de datos (Art. 8).
+| General Data Protection Regulation (GDPR) | Europa | 2016 | Ley de privacidad aplicada para cualquier organización que trabaje con datos de personas europeas. | - | Yahoo posee usuarios europeos cuyos datos confidenciales se vieron involucrados, esto automáticamente involucra a la GDPR.
+| Convenio Budapest | Hungría | 2001 | Tratado internacional ante ciberdelitos. Busca estandarizar leyes de forma internacional, involucrando la cooperación entre países que se han adherido. | - | La compañia Yahoo Inc. es de origen americano, país que firmó el Convenio de Budapest, por lo que esta entidad pudo haberse involucrado en el caso.
