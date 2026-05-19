@@ -3,13 +3,18 @@ Según la ley chilena 21.459, el ataque de brecha de datos de Yahoo en 2013 y 20
 # Delitos
 
 1. **Artículo 2 (acceso ilícito):**
-- - Acceder sin autorización a un sistema informático.
-- - **Agravante:** Si se accede a datos confidenciales.
+- - Los atacantes accedieron sin autorización a un sistema informático en este caso de Yahoo.
+- - Los datos accedidos iban de nombres a información altamente confidencial como dirección de residencia, contraseñas hasheadas y preguntas de seguridad.
+- - Las acciones de los atacantes son completamente tipificadas por el artículo 2.
 2. **Artículo 7 (fraude informático):**
-- - Manipular un sistema informático para obtener un **beneficio económico ilícito**.
+- - Los atacantes vulneraron el sistema informático para almacenar la información de los usuarios.
+- - En 2016, Yahoo mencionó que los atacantes de 2014 eran provenientes de Rusia y vendieron los datos recopilados.
+- - Fue una **vulneración** de la privacidad de los usuarios.
+- - Las acciones realizadas son tipificadas por la mayor parte del artículo 7.
 3. **Artículo 8 (receptación de datos):**
-- - Comercializar, transferir o almacenar datos obtenidos ilícitamente.
-- - A sabiendas de su origen ilícito.
+- - Los atacantes obtuvieron los datos de forma ilícita.
+- - Procedieron a comercializar los datos, siendo vendidos por ganancia económica.
+- - Estas acciones son completamente tipificadas por el artículo 8.
   
 ## Fuentes
 - [Yahoo Data Breach: What Happened, Impact and Lessons | Huntress](https://www.huntress.com/threat-library/data-breach/yahoo-data-breach)
